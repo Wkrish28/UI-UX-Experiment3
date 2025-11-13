@@ -17,7 +17,7 @@ Develop and incorporate required changes in the analysed apps/websites.
 - Create a hybrid redesigned interface combining the best features of all apps.
 - Validate changes using A/B testing by comparing original vs redesigned versions.
 - Summarize results and conclude the improvements in user experience.
-- 
+
 ## Output:
 
 A heuristic evaluation was conducted on three competing music streaming applications: Spotify, YouTube Music, and Apple Music. These apps were selected due to their massive global user base and overlapping functionalities in music streaming, playlist creation, and personalized recommendations. The evaluation was performed using Jakob Nielsen’s 10 Usability Heuristics, focusing on visibility of system status, aesthetic design, consistency, recognition vs recall, user control, and error prevention.
